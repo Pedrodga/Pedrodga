@@ -10,7 +10,7 @@ I enjoy solving problems, learning new technologies, and collaborating with othe
 I enjoy working on both **backend** and **frontend** projects and love finding solutions to any challenge I face.
 
 ## 📂 Current Projects
-- **DGB** I am building a crypto website to launcha project in another platform that uses AI for chatting about crypto and disposes a Portfolio manager and simulator.
+- **DGB** I am building a crypto website to launch project in another platform that uses AI for chatting about crypto and disposes a Portfolio manager and simulator.
 
 ## 🚀 Learning & Exploring
 
